@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Cooking
-permalink: /cooking/
+permalink: /cook/
 ---
 
 Eggs
