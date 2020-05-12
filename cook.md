@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cooking
+title: Cooking Reference
 permalink: /cook/
 ---
 
@@ -14,7 +14,7 @@ boil water, 1/2 inches in pot; add eggs, return to boil & simmer
 
 Rice
 ----
-2 cups rice, 2 cups water in pyrex on steamer, high pressure 15 min
+2 cups rice, 2 cups water in pyrex on steamer, high pressure 16 min
 
 Potato
 ------
@@ -25,6 +25,6 @@ Japchae
 - large pot to boil
 - 2 carrots matchstick & saute
 - 1/4 lb yam noodles boil <10 min
-- 1 onion thin slice & soften
-- mix with sesame oil
-- 1 bunch parsley (no stem) or spinach
+- 1 onion slice & soften
+- mix all with sesame oil
+- wilt 1 bunch parsley (no stem) or spinach
