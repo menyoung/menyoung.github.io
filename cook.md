@@ -18,7 +18,7 @@ Rice
 
 Potato
 ------
-instant pot steam rack, 1 cup water, high pressure 10 min, release >10 min
+instant pot steam rack, 1 cup water, high pressure 12 min, release >10 min
 
 Japchae
 -------
