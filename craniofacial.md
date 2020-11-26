@@ -29,3 +29,11 @@ permalink: /craniofacial/
 
 ### A genotype-specific surgical approach for patients with Pfeiffer syndrome due to W290C pathogenic variant in FGFR2 is associated with improved developmental outcomes and reduced mortality
 <https://pubmed.ncbi.nlm.nih.gov/29915381/>
+
+### Tracheal Anomalies in Pfeiffer Syndrome
+<https://pubmed.ncbi.nlm.nih.gov/15545585/>
+
+### Tracheal cartilaginous sleeves in children with syndromic craniosynostosis
+<https://pubmed.ncbi.nlm.nih.gov/27228464/>
+
+### 
